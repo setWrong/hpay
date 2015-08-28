@@ -1,0 +1,9 @@
+{
+    "require": {
+        "monolog/monolog": "1.6",
+        "phpunit/phpunit": "4.8.*",
+        "phpdocumentor/phpdocumentor": "2.5.0",
+        "fabpot/php-cs-fixer": "1.1.*",
+        "phpoffice/phpexcel": "1.8.*",
+    }
+}
