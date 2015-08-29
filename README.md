@@ -1,2 +1,1 @@
-# hpay_sdk
-payment sdk
+hpay
